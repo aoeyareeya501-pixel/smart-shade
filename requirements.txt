@@ -1,8 +1,7 @@
-streamlit==1.32.0
+streamlit
 pillow
 pandas
 numpy
 requests
 pytz
 scikit-image
-
