@@ -12,7 +12,6 @@ from datetime import datetime
 import json
 import pandas as pd
 import numpy as np
-from streamlit_image_coordinates import streamlit_image_coordinates
 
 import color_utils as cu
 
