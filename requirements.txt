@@ -5,4 +5,4 @@ numpy
 requests
 pytz
 scikit-image
-streamlit-image-coordinates
+
